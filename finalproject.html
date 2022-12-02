@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <script src="http://d3js.org/d3.v5.min.js" charset="utf-8"></script>
+  <script src="https://unpkg.com/topojson@3.0.2/dist/topojson.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
+  <!-- Add dashboard.css link -->
+    <link rel="stylesheet" href="css/Dashboard.css">
+  <!-- Add base.js line -->
+    <script src="js/base.js"></script>
+  <!-- Add sparkline.js link -->
+    <script src="js/sparkline.js"></script>
+  <!-- sidebar -->
+  <div id="info1">
+  </div>
+  <div id="info2">
+  </div>
+  <div id="extra1">
+  </div>
+  <div id="extra2">
+  </div>
+  <!-- mainwindow -->
+  <div id="map">
+    <script>
+    var mheight = 700;
+        var mwidth = 1000;
+        var projection = d3.geoMercator()
+        var wa = void 0;
+
+    var path = d3.geoPath().projection(projection);
+    var svg = d3.select("#map")
+            .append("svg")
+            .attr("width", mwidth)
+            .attr("height", mheight);
+
+
+            d3.json('data/world.geojson').then(function(data) {
+              console.log('world', data);
+
+          projection.scale(1).translate([0, 0]);
+              var b = path.bounds(data);
+              var s = .95 / Math.max((b[1][0] - b[0][0]) / mwidth, (b[1][1] -
+          b[0][1]) / mheight);
+              var t = [(mwidth - s * (b[1][0] + b[0][0])) / 2, (mheight - s *
+          (b[1][1] + b[0][1])) / 2+50];
+              projection.scale(s).translate(t);
+              });
+
+  </div>
+
+</body>
+</html>

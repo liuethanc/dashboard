@@ -1,0 +1,846 @@
+[
+  {
+    "country": "Monaco",
+    "broadband": "261.8200"
+  },
+  {
+    "country": "Singapore",
+    "broadband": "255.8300",
+    "mobile": "105.0100"
+  },
+  {
+    "country": "Hong Kong",
+    "broadband": "254.7000",
+    "mobile": "83.5800"
+  },
+  {
+    "country": "Romania",
+    "broadband": "232.1700",
+    "mobile": "59.6700"
+  },
+  {
+    "country": "Switzerland",
+    "broadband": "229.9600",
+    "mobile": "135.7000"
+  },
+  {
+    "country": "Denmark",
+    "broadband": "227.9100",
+    "mobile": "112.0300"
+  },
+  {
+    "country": "Thailand",
+    "broadband": "225.1700",
+    "mobile": "56.9000"
+  },
+  {
+    "country": "Chile",
+    "broadband": "217.6000",
+    "mobile": "21.2300"
+  },
+  {
+    "country": "France",
+    "broadband": "214.0400",
+    "mobile": "86.5100"
+  },
+  {
+    "country": "South Korea",
+    "broadband": "212.5700",
+    "mobile": "202.6100"
+  },
+  {
+    "country": "Hungary",
+    "broadband": "210.5500",
+    "mobile": "60.1600"
+  },
+  {
+    "country": "Liechtenstein",
+    "broadband": "204.7800"
+  },
+  {
+    "country": "United States",
+    "broadband": "203.8100",
+    "mobile": "110.0700"
+  },
+  {
+    "country": "Spain",
+    "broadband": "201.4700",
+    "mobile": "61.6200"
+  },
+  {
+    "country": "China",
+    "broadband": "196.5700",
+    "mobile": "165.3800"
+  },
+  {
+    "country": "United Arab Emirates",
+    "broadband": "189.0700",
+    "mobile": "238.0600"
+  },
+  {
+    "country": "Canada",
+    "broadband": "183.8100",
+    "mobile": "95.7800"
+  },
+  {
+    "country": "Macau",
+    "broadband": "178.9000",
+    "mobile": "62.3100"
+  },
+  {
+    "country": "Japan",
+    "broadband": "178.7600",
+    "mobile": "69.0200"
+  },
+  {
+    "country": "Sweden",
+    "broadband": "174.9000",
+    "mobile": "103.0800"
+  },
+  {
+    "country": "Luxembourg",
+    "broadband": "172.0500",
+    "mobile": "116.7600"
+  },
+  {
+    "country": "Andorra",
+    "broadband": "171.4400"
+  },
+  {
+    "country": "New Zealand",
+    "broadband": "170.5100",
+    "mobile": "75.9100"
+  },
+  {
+    "country": "Norway",
+    "broadband": "168.2500",
+    "mobile": "177.7200"
+  },
+  {
+    "country": "Netherlands",
+    "broadband": 165,
+    "mobile": "106.9800"
+  },
+  {
+    "country": "Israel",
+    "broadband": "162.6600",
+    "mobile": "48.3000"
+  },
+  {
+    "country": "Portugal",
+    "broadband": "162.5500",
+    "mobile": "59.9100"
+  },
+  {
+    "country": "Poland",
+    "broadband": "156.3300",
+    "mobile": "57.2300"
+  },
+  {
+    "country": "Moldova",
+    "broadband": "154.5600",
+    "mobile": "42.9900"
+  },
+  {
+    "country": "Taiwan",
+    "broadband": "152.0100",
+    "mobile": "95.5100"
+  },
+  {
+    "country": "Kuwait",
+    "broadband": "149.3700",
+    "mobile": "157.1800"
+  },
+  {
+    "country": "Lithuania",
+    "broadband": "147.0500",
+    "mobile": "66.2500"
+  },
+  {
+    "country": "Malta",
+    "broadband": "144.0600",
+    "mobile": "70.7300"
+  },
+  {
+    "country": "Panama",
+    "broadband": "137.3800",
+    "mobile": "20.4400"
+  },
+  {
+    "country": "Germany",
+    "broadband": "136.6600",
+    "mobile": "83.0600"
+  },
+  {
+    "country": "Latvia",
+    "broadband": "135.2200",
+    "mobile": "50.0700"
+  },
+  {
+    "country": "Finland",
+    "broadband": "135.0500",
+    "mobile": "88.2300"
+  },
+  {
+    "country": "Belgium",
+    "broadband": "125.1200",
+    "mobile": "69.7600"
+  },
+  {
+    "country": "Ireland",
+    "broadband": "122.5500",
+    "mobile": "62.6600"
+  },
+  {
+    "country": "San Marino",
+    "broadband": "121.4000"
+  },
+  {
+    "country": "Slovenia",
+    "broadband": "115.6100",
+    "mobile": "74.8400"
+  },
+  {
+    "country": "Slovakia",
+    "broadband": "115.1100",
+    "mobile": "56.0100"
+  },
+  {
+    "country": "Qatar",
+    "broadband": "113.8800",
+    "mobile": "172.1800"
+  },
+  {
+    "country": "Brazil",
+    "broadband": "113.0900",
+    "mobile": "33.9200"
+  },
+  {
+    "country": "Barbados",
+    "broadband": "109.4100"
+  },
+  {
+    "country": "Malaysia",
+    "broadband": "107.5500",
+    "mobile": "31.3400"
+  },
+  {
+    "country": "Italy",
+    "broadband": "104.0900",
+    "mobile": "55.4100"
+  },
+  {
+    "country": "United Kingdom",
+    "broadband": "102.2400",
+    "mobile": "86.5600"
+  },
+  {
+    "country": "Russia",
+    "broadband": "95.9600",
+    "mobile": "28.9900"
+  },
+  {
+    "country": "Saudi Arabia",
+    "broadband": "94.6400",
+    "mobile": "155.9700"
+  },
+  {
+    "country": "Austria",
+    "broadband": "94.3100",
+    "mobile": "71.8100"
+  },
+  {
+    "country": "Estonia",
+    "broadband": "88.4900",
+    "mobile": "75.2900"
+  },
+  {
+    "country": "Serbia",
+    "broadband": "86.7700",
+    "mobile": "53.8200"
+  },
+  {
+    "country": "Bulgaria",
+    "broadband": "86.7500",
+    "mobile": "142.2700"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "broadband": "85.8000",
+    "mobile": "41.1200"
+  },
+  {
+    "country": "Jordan",
+    "broadband": "84.1200",
+    "mobile": "27.6100"
+  },
+  {
+    "country": "Australia",
+    "broadband": "82.7300",
+    "mobile": "135.3000"
+  },
+  {
+    "country": "Vietnam",
+    "broadband": "78.3400",
+    "mobile": "43.3200"
+  },
+  {
+    "country": "Ukraine",
+    "broadband": "76.8200",
+    "mobile": "31.9500"
+  },
+  {
+    "country": "Bahrain",
+    "broadband": "73.9500",
+    "mobile": "86.0400"
+  },
+  {
+    "country": "Paraguay",
+    "broadband": "72.5000",
+    "mobile": "20.6500"
+  },
+  {
+    "country": "Colombia",
+    "broadband": "72.1900",
+    "mobile": "18.3300"
+  },
+  {
+    "country": "Philippines",
+    "broadband": "71.8500",
+    "mobile": "35.0300"
+  },
+  {
+    "country": "Uruguay",
+    "broadband": "69.9100",
+    "mobile": "38.0800"
+  },
+  {
+    "country": "Belarus",
+    "broadband": "69.4100",
+    "mobile": "19.4100"
+  },
+  {
+    "country": "Croatia",
+    "broadband": "69.0900",
+    "mobile": "114.7600"
+  },
+  {
+    "country": "Oman",
+    "broadband": "68.2800",
+    "mobile": "91.2100"
+  },
+  {
+    "country": "Guyana",
+    "broadband": "65.9300"
+  },
+  {
+    "country": "India",
+    "broadband": "64.0300",
+    "mobile": "17.8900"
+  },
+  {
+    "country": "Kazakhstan",
+    "broadband": "63.2800",
+    "mobile": "31.7400"
+  },
+  {
+    "country": "Bahamas",
+    "broadband": "61.7500"
+  },
+  {
+    "country": "Montenegro",
+    "broadband": "60.0300",
+    "mobile": "44.4800"
+  },
+  {
+    "country": "Argentina",
+    "broadband": "58.8700",
+    "mobile": "29.7700"
+  },
+  {
+    "country": "Peru",
+    "broadband": "58.7300",
+    "mobile": "24.8200"
+  },
+  {
+    "country": "Grenada",
+    "broadband": "57.0700"
+  },
+  {
+    "country": "Costa Rica",
+    "broadband": "56.3900",
+    "mobile": "34.0100"
+  },
+  {
+    "country": "Cyprus",
+    "broadband": "55.1100",
+    "mobile": "144.6400"
+  },
+  {
+    "country": "Mexico",
+    "broadband": "54.8800",
+    "mobile": "34.3300"
+  },
+  {
+    "country": "South Africa",
+    "broadband": "54.7500",
+    "mobile": "52.1900"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "broadband": "53.7700"
+  },
+  {
+    "country": "Mongolia",
+    "broadband": "53.5300",
+    "mobile": "21.3400"
+  },
+  {
+    "country": "Saint Lucia",
+    "broadband": "52.3000"
+  },
+  {
+    "country": "Ghana",
+    "broadband": "52.1000",
+    "mobile": "12.9000"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "broadband": "51.0700",
+    "mobile": "24.7100"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "broadband": "48.5100",
+    "mobile": "36.6100"
+  },
+  {
+    "country": "Laos",
+    "broadband": "48.1600",
+    "mobile": "30.9300"
+  },
+  {
+    "country": "Uzbekistan",
+    "broadband": "45.8800",
+    "mobile": "19.2900"
+  },
+  {
+    "country": "Albania",
+    "broadband": "45.5500",
+    "mobile": "61.5600"
+  },
+  {
+    "country": "Turkey",
+    "broadband": "43.4800",
+    "mobile": "48.8500"
+  },
+  {
+    "country": "North Macedonia",
+    "broadband": "43.2400",
+    "mobile": "64.0200"
+  },
+  {
+    "country": "Madagascar",
+    "broadband": "42.8400"
+  },
+  {
+    "country": "Ivory Coast",
+    "broadband": "40.6400",
+    "mobile": "18.3600"
+  },
+  {
+    "country": "Belize",
+    "broadband": "40.6200"
+  },
+  {
+    "country": "Bangladesh",
+    "broadband": "40.3100",
+    "mobile": "13.4300"
+  },
+  {
+    "country": "Egypt",
+    "broadband": "39.9700",
+    "mobile": "24.9500"
+  },
+  {
+    "country": "Mauritius",
+    "broadband": "39.8500",
+    "mobile": "30.2800"
+  },
+  {
+    "country": "Greece",
+    "broadband": "39.0800",
+    "mobile": "92.5400"
+  },
+  {
+    "country": "Ecuador",
+    "broadband": "39.0700",
+    "mobile": "24.6200"
+  },
+  {
+    "country": "Armenia",
+    "broadband": "38.9500",
+    "mobile": "34.5300"
+  },
+  {
+    "country": "Jamaica",
+    "broadband": "37.8400",
+    "mobile": "44.2300"
+  },
+  {
+    "country": "Tajikistan",
+    "broadband": "35.4500",
+    "mobile": "16.1500"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "broadband": "35.4500"
+  },
+  {
+    "country": "Senegal",
+    "broadband": "35.0100",
+    "mobile": "23.5900"
+  },
+  {
+    "country": "Dominica",
+    "broadband": "34.9000"
+  },
+  {
+    "country": "Brunei",
+    "broadband": "34.5900",
+    "mobile": "67.3200"
+  },
+  {
+    "country": "Nepal",
+    "broadband": "33.8700",
+    "mobile": "22.3900"
+  },
+  {
+    "country": "Dominican Republic",
+    "broadband": "32.2600",
+    "mobile": "31.4500"
+  },
+  {
+    "country": "Iraq",
+    "broadband": "31.6600",
+    "mobile": "42.3300"
+  },
+  {
+    "country": "Marshall Islands",
+    "broadband": "31.6400"
+  },
+  {
+    "country": "Nicaragua",
+    "broadband": "29.9400",
+    "mobile": "26.5900"
+  },
+  {
+    "country": "Palestine",
+    "broadband": "29.4600",
+    "mobile": "7.5700"
+  },
+  {
+    "country": "Georgia",
+    "broadband": "28.6100",
+    "mobile": "39.8400"
+  },
+  {
+    "country": "Cambodia",
+    "broadband": "28.3200",
+    "mobile": "23.7500"
+  },
+  {
+    "country": "Indonesia",
+    "broadband": "27.8300",
+    "mobile": "23.1200"
+  },
+  {
+    "country": "Bolivia",
+    "broadband": "27.8000",
+    "mobile": "22.5700"
+  },
+  {
+    "country": "Maldives",
+    "broadband": "27.4200",
+    "mobile": "66.9000"
+  },
+  {
+    "country": "Morocco",
+    "broadband": "27.2100",
+    "mobile": "39.5200"
+  },
+  {
+    "country": "El Salvador",
+    "broadband": "27.0400",
+    "mobile": "26.8500"
+  },
+  {
+    "country": "Cape Verde",
+    "broadband": "26.9400"
+  },
+  {
+    "country": "Honduras",
+    "broadband": "26.9300",
+    "mobile": "30.8400"
+  },
+  {
+    "country": "Rwanda",
+    "broadband": "26.2600"
+  },
+  {
+    "country": "Sri Lanka",
+    "broadband": "26.0800",
+    "mobile": "16.5800"
+  },
+  {
+    "country": "Liberia",
+    "broadband": "25.6800"
+  },
+  {
+    "country": "Burkina Faso",
+    "broadband": "25.5400"
+  },
+  {
+    "country": "Azerbaijan",
+    "broadband": "25.1000",
+    "mobile": "40.6900"
+  },
+  {
+    "country": "Seychelles",
+    "broadband": "24.9000"
+  },
+  {
+    "country": "Bhutan",
+    "broadband": "24.7600"
+  },
+  {
+    "country": "Lesotho",
+    "broadband": "24.6400"
+  },
+  {
+    "country": "Venezuela",
+    "broadband": "23.9200",
+    "mobile": "7.6800"
+  },
+  {
+    "country": "Guatemala",
+    "broadband": "23.7200",
+    "mobile": "29.6900"
+  },
+  {
+    "country": "Western Sahara",
+    "broadband": "23.0200"
+  },
+  {
+    "country": "Micronesia",
+    "broadband": "22.5400"
+  },
+  {
+    "country": "Gabon",
+    "broadband": "22.5000"
+  },
+  {
+    "country": "Iran",
+    "broadband": "21.3600",
+    "mobile": "35.4800"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "broadband": "21.2400"
+  },
+  {
+    "country": "Mali",
+    "broadband": "20.8200",
+    "mobile": "29.7900"
+  },
+  {
+    "country": "Togo",
+    "broadband": "20.7600",
+    "mobile": "36.0800"
+  },
+  {
+    "country": "Fiji",
+    "broadband": "20.7600",
+    "mobile": "28.5100"
+  },
+  {
+    "country": "Myanmar",
+    "broadband": "20.6900",
+    "mobile": "28.1900"
+  },
+  {
+    "country": "Haiti",
+    "broadband": "20.6700",
+    "mobile": "19.7100"
+  },
+  {
+    "country": "Tanzania",
+    "broadband": "19.7700",
+    "mobile": "13.2300"
+  },
+  {
+    "country": "Namibia",
+    "broadband": "19.5800",
+    "mobile": "23.1800"
+  },
+  {
+    "country": "Kenya",
+    "broadband": "19.3500",
+    "mobile": "22.1400"
+  },
+  {
+    "country": "Somalia",
+    "broadband": "18.9800",
+    "mobile": "14.7400"
+  },
+  {
+    "country": "Djibouti",
+    "broadband": "18.2700"
+  },
+  {
+    "country": "Lebanon",
+    "broadband": "18.2200",
+    "mobile": "32.6400"
+  },
+  {
+    "country": "Zimbabwe",
+    "broadband": "17.8100"
+  },
+  {
+    "country": "Nigeria",
+    "broadband": "17.6500",
+    "mobile": "24.7400"
+  },
+  {
+    "country": "Zambia",
+    "broadband": "17.2400",
+    "mobile": "18.9800"
+  },
+  {
+    "country": "Benin",
+    "broadband": "16.2300"
+  },
+  {
+    "country": "Vanuatu",
+    "broadband": "16.1800"
+  },
+  {
+    "country": "Libya",
+    "broadband": "16.1200",
+    "mobile": "16.0300"
+  },
+  {
+    "country": "Suriname",
+    "broadband": "15.9300",
+    "mobile": "42.9700"
+  },
+  {
+    "country": "Angola",
+    "broadband": "14.8600",
+    "mobile": "25.8700"
+  },
+  {
+    "country": "Ethiopia",
+    "broadband": "14.1700",
+    "mobile": "26.1700"
+  },
+  {
+    "country": "Cameroon",
+    "broadband": "13.9400",
+    "mobile": "31.1800"
+  },
+  {
+    "country": "Pakistan",
+    "broadband": "13.8400",
+    "mobile": "19.8200"
+  },
+  {
+    "country": "Papua New Guinea",
+    "broadband": "13.6800"
+  },
+  {
+    "country": "Sierra Leone",
+    "broadband": "13.5600"
+  },
+  {
+    "country": "Uganda",
+    "broadband": "13.5500",
+    "mobile": "19.0200"
+  },
+  {
+    "country": "Syria",
+    "broadband": "12.7200",
+    "mobile": "19.2100"
+  },
+  {
+    "country": "Malawi",
+    "broadband": "12.7000"
+  },
+  {
+    "country": "Gambia",
+    "broadband": "12.2400"
+  },
+  {
+    "country": "Niger",
+    "broadband": "11.6800"
+  },
+  {
+    "country": "Mauritania",
+    "broadband": "11.5500",
+    "mobile": "19.9600"
+  },
+  {
+    "country": "Botswana",
+    "broadband": "11.2100"
+  },
+  {
+    "country": "Burundi",
+    "broadband": "11.1800"
+  },
+  {
+    "country": "Tunisia",
+    "broadband": "11.1300",
+    "mobile": "35.5700"
+  },
+  {
+    "country": "Algeria",
+    "broadband": "10.4300",
+    "mobile": "18.1000"
+  },
+  {
+    "country": "Mozambique",
+    "broadband": "9.2700",
+    "mobile": "25.0200"
+  },
+  {
+    "country": "Guinea",
+    "broadband": "8.8400"
+  },
+  {
+    "country": "Afghanistan",
+    "broadband": "8.2600",
+    "mobile": "7.2700"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "broadband": "7.9500"
+  },
+  {
+    "country": "Sudan",
+    "broadband": "7.9200",
+    "mobile": "14.5100"
+  },
+  {
+    "country": "Yemen",
+    "broadband": "7.5900"
+  },
+  {
+    "country": "Turkmenistan",
+    "broadband": "4.1100"
+  },
+  {
+    "country": "Cuba",
+    "broadband": "4.0100",
+    "mobile": "25.0200"
+  }
+]

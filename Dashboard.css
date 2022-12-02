@@ -1,0 +1,137 @@
+* {
+box-sizing: border-box;
+}
+html, body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  float: left;
+  font-family: 'Titillium Web', serif;
+    border: 2px solid red;
+
+}
+#map {
+  width: 83.7%;
+  height: 600px;
+  margin: 0;
+  background: #343a40;
+  float: right;
+  font-family: 'Titillium Web', serif;
+    border: 2px solid blue;
+}
+#info1 {
+z-index: 1000;
+position: absolute;
+width: 15.8%;
+height:300px;
+top: 0%;
+bottom: 50%;
+left: .5%;
+background: #343a40;
+color: white;
+  border: 2px solid grey;
+}
+#info2 {
+z-index: 1000;
+position: absolute;
+width: 15.8%;
+height:300px;
+top: 42.5%;
+bottom: 0%;
+left: .5%;
+background: #343a40;
+color: white;
+  border: 2px solid grey;
+}
+#extra1 {
+z-index: 1000;
+position: absolute;
+width: 49.4%;
+height:100px;
+top: 85%;
+bottom: 0%;
+left:0.5%;
+background: #343a40;
+color: white;
+border: 2px solid grey;
+}
+#extra2 {
+z-index: 1000;
+position: absolute;
+width: 49.4%;
+height:100px;
+top: 85%;
+right:0.5%;
+bottom: 0%;
+background: #343a40;
+color: white;
+border: 2px solid grey;
+}
+
+@media only screen and (max-width: 1026px) {
+#info1, {
+  visibility: hidden !important;
+}
+}
+
+#info1 a {
+color: lightgray;
+}
+
+#info1 a:hover {
+color: white;
+opacity: 0.3;
+}
+
+#info1 h4 i {
+font-size: 1.25e;
+padding-right: 10px
+}
+
+#title {
+font-size: 25px;
+font-family: 'Oswald', sans-serif;
+}
+
+/* social media icons */
+#title span {
+font-size: 14px;
+float: right;
+margin-right: 10px;
+}
+
+#placename {
+font-size: 40px;
+font-family: 'Oswald', sans-serif;
+}
+
+/* card decks */
+#desc {
+text-align: center;
+color: lightgray;
+font-size: medium;
+font-weight: bold;
+}
+
+#county-count {
+margin:0;
+text-align: center;
+color: orange;
+font-size: 45px;
+}
+
+#county-chart {
+top: 20px;
+}
+
+#footer {
+margin-top: 50px;
+margin-right: 10px;
+font-size: 13px;
+line-height: 150%;
+color: lightgray;
+}
+.line {
+    fill: none;
+    stroke-width: 3;
+}
